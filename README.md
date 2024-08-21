@@ -141,10 +141,9 @@ The objective of this home lab is to demonstrate proficiency in Wireshark by suc
 
 
 
-#Conclusion
+# Conclusion
 
-This is just scratching the surface of what Wireshark is capable of. This project was designed to display proficiency and undertstanding of how Wireshark operates. I definietly learned a lot going through the modules.
-
+This project is just the beginning of exploring Wireshark's full capabilities. It was designed to showcase a solid understanding and proficiency in using the tool. I gained valuable insights and knowledge while working through the modules.
 
 
 
