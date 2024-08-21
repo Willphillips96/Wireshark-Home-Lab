@@ -1,25 +1,24 @@
-# PROJECTNAME
+# Wireshark Home Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+
 
 The objective of this home lab is to demonstrate proficiency in Wireshark by successfully completing the designated tasks within the TryHackMe environment.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+
+- Leveraged Wireshark's endpoint functionality to refine packet searches and identify specific data.
+- Utilized HTTP and IPV4 Statistics to gather information that was needed to complete the objective
+- Employed HTTP and IPv4 statistics to extract necessary information for objective completion.
+- Applied IP filters to streamline packet analysis.
+- Used comparison operators to isolate packets critical to the objective.
+- Implemented TCP filters to identify packets using specific ports.
+- Combined TCP and HTTP protocol filters in a single line to obtain targeted information and achieve the objective.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Wireshark
 
 ## Objective 1
 1. Launched the Wireshark Packet Operations module
@@ -135,7 +134,16 @@ The objective of this home lab is to demonstrate proficiency in Wireshark by suc
 
 1. Tryhackme Objective 11: What is the number of "HTTP GET" requests sent to port "80"?
 
+2. Utilized 2 different queries, the first portion was to reveal all the HTTP GET requests. After and the second portion showed all of the TCP packets sent to port 80.
 
+![image](https://github.com/user-attachments/assets/1472d7af-da9b-4641-a660-c224cdbf19d6)
+
+
+
+
+#Conclusion
+
+This is just scratching the surface of what Wireshark is capable of. This project was designed to display proficiency and undertstanding of how Wireshark operates. I definietly learned a lot going through the modules.
 
 
 
