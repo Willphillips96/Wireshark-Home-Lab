@@ -46,7 +46,47 @@ The objective of this home lab is to demonstrate proficiency in Wireshark by suc
 
 ## Objective 3
 
-1. Tryhackme Objective 3:
+1. Tryhackme Objective 3: How many bytes (k) were transferred from the "Micro-St" MAC address?
+
+2. Navigated to statistics and selected endpoints.
+
+3. Then I checked the name resolution box and was able to find Micro-St and that 7474 bytes were transferred from it.
+
+![image](https://github.com/user-attachments/assets/976a1c92-22a9-4164-b1f8-10f85df57f00)
+
+## Objective 4
+
+1. Tryhackme Objective 4: What is the number of IP addresses linked with "Kansas City"?
+
+2. Selected statistics and then endpoints.
+
+3. Selected the name resolution box.
+
+4. Then I catagorized the endpoints by city. The end result was 4.
+
+![image](https://github.com/user-attachments/assets/e8548c56-300a-4d8e-805c-3f3eb3c89b96)
+
+## Objective 5
+
+1. Tryhackme Objective 5: Which IP address is linked with "Blicnet" AS Organisation?
+
+2. Utilizing endpoint within Wireshark I was able to find the organization under the IPV4 tab and unchecked the name resolution box and it displayed the IP address.
+
+![image](https://github.com/user-attachments/assets/c5d1f748-676a-41f5-b2a7-e0a4d2965c80)
+
+![image](https://github.com/user-attachments/assets/ec1bc38b-c198-4991-932a-8aeaa6743cbf)
+
+## Objective 6
+
+1. Tryhackme Objective 6: What is the most used IPv4 destination address?
+
+
+
+
+
+
+
+   
 
 
    
