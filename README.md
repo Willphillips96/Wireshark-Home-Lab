@@ -80,6 +80,40 @@ The objective of this home lab is to demonstrate proficiency in Wireshark by suc
 
 1. Tryhackme Objective 6: What is the most used IPv4 destination address?
 
+2. Navigated to statistics > IPV4 statistics > Then selected destination and ports.
+
+3. Then I catigorized the destinations by count and got the result.
+
+![image](https://github.com/user-attachments/assets/11ca2955-0cef-486e-b815-e4e8190a2744)
+
+## Objective 7
+
+1. Tryhackme Objective 7: What is the max service request-response time of the DNS packets?
+
+2. Navigated to statistics and selected DNS.
+
+3. Found the max service request-response time and it is shown in the screenshot below.
+
+![image](https://github.com/user-attachments/assets/839959a3-d3b7-409c-bcaa-ad77469df946)
+
+## Objective 8
+
+1. Tryhackme Objective 8: What is the number of HTTP Requests accomplished by "rad[.]msn[.]com?
+
+2. Navigated to statistics > HTTP > and selected requests.
+
+![image](https://github.com/user-attachments/assets/b64899de-a3a4-426e-b95a-3e0d70fc52d2)
+
+![image](https://github.com/user-attachments/assets/2ce775f7-7461-4bc5-a224-4e2f6eca6efc)
+
+## Objective 8
+
+
+
+
+
+
+
 
 
 
