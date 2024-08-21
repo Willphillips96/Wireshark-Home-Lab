@@ -108,6 +108,35 @@ The objective of this home lab is to demonstrate proficiency in Wireshark by suc
 
 ## Objective 8
 
+1. Tryhackme Objective 8: What is the number of IP packets?
+
+2. Typed in ip and pressed enter. At the bottom of the page it displays the total amount of packets.
+
+
+![image](https://github.com/user-attachments/assets/1cac502b-cf37-4c1f-916d-ca285ca6157d)
+
+## Objective 9
+
+1. Tryhackme Objective 9: What is the number of packets with a "TTL value less than 10"?
+
+2. Typed in the the comparison operator and got the correct result of 66.
+
+![image](https://github.com/user-attachments/assets/696b62fb-5ed9-43e6-ae04-da418e7ea58a)
+
+## Objective 10
+
+1. Tryhackme Objective 10: What is the number of packets which uses "TCP port 4444"?
+
+2. Utilized the proper tcp command to prompt Wireshark to reveal the amount of packets that use TCP 4444.
+
+![image](https://github.com/user-attachments/assets/4821b288-cc7b-40bf-8d90-89cddcdf4c84)
+
+## Objective 11
+
+1. Tryhackme Objective 11: What is the number of "HTTP GET" requests sent to port "80"?
+
+
+
 
 
 
